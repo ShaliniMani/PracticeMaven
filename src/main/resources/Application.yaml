@@ -1,0 +1,6 @@
+QA:
+  Browser :  "chrome"
+  OS : "Windows"
+Staging:
+       Browser : "firefox"
+       OS : "MAC"
